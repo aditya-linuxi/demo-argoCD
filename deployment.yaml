@@ -35,4 +35,5 @@ spec:
 
       - name: nginx
 
-        image: nginx:1.25
+        image: httpd:latest
+
